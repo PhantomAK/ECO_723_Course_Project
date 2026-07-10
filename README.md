@@ -40,7 +40,7 @@ Instead, it proposes **HOBA (Homogeneity-Oriented Behavior Analysis)**, where tr
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 .
