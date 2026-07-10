@@ -1,8 +1,5 @@
 # Credit Card Fraud Detection using HOBA Feature Engineering and Deep Learning
 
-> **ECO723 Course Project**  
-> Indian Institute of Technology Kanpur
-
 This project is a comprehensive replication and extension of the research paper:
 
 > **"HOBA: A Novel Feature Engineering Methodology for Credit Card Fraud Detection with a Deep Learning Architecture"**  
