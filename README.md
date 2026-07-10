@@ -40,36 +40,6 @@ Instead, it proposes **HOBA (Homogeneity-Oriented Behavior Analysis)**, where tr
 
 ---
 
-# Repository Structure
-
-```text
-.
-├── data/
-│   ├── raw/
-│   ├── processed/
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Feature_Engineering.ipynb
-│   ├── 03_Model_Training.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── models.py
-│   ├── evaluation.py
-│
-├── figures/
-│
-├── results/
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 ## Dataset
 
 We use the **IBM Synthetic Credit Card Transactions Dataset** available on Kaggle.
